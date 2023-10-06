@@ -22,13 +22,13 @@
       
       "dob": {
         "date": "1966-06-08T18:15:46.487Z",
-        "age": 57
+        "age": 23
       },
       "registered": {
         "date": "2013-06-30T08:02:47.308Z",
-        "age": 10
+        "age": 3
       },
-      "phone": "04-49-06-28-04",
+      "phone": "+44 49 062 28 04",
       "id": "1660542532833 15",
       
       "picture": {
@@ -36,7 +36,8 @@
         "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
       },
-      "nat": "FR"
+      "nat": "FR",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -65,14 +66,15 @@
         "date": "2015-03-31T11:19:46.731Z",
         "age": 8
       },
-      "phone": "079 328 05 96",
+      "phone": "+44 79 328 05 96",
       "id": "756.8629.0955.70",
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/63.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
       },
-      "nat": "CH"
+      "nat": "CH",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -108,7 +110,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
       },
-      "nat": "AU"
+      "nat": "AU",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -144,7 +147,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
       },
-      "nat": "FI"
+      "nat": "FI",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -180,7 +184,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
       },
-      "nat": "FR"
+      "nat": "FR",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
  
     {
@@ -216,7 +221,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
       },
-      "nat": "CA"
+      "nat": "CA",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -252,7 +258,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
       },
-      "nat": "UA"
+      "nat": "UA",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -288,7 +295,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
       },
-      "nat": "ES"
+      "nat": "ES",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -324,7 +332,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
       },
-      "nat": "NL"
+      "nat": "NL",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -360,7 +369,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
       },
-      "nat": "GB"
+      "nat": "GB",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -396,7 +406,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
       },
-      "nat": "DK"
+      "nat": "DK",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -432,7 +443,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
       },
-      "nat": "GB"
+      "nat": "GB",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -468,7 +480,8 @@
         "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
       },
-      "nat": "CH"
+      "nat": "CH",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
   
     {
@@ -504,7 +517,8 @@
         "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
       },
-      "nat": "CH"
+      "nat": "CH",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
 
     {
@@ -540,6 +554,7 @@
         "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
       },
-      "nat": "NL"
+      "nat": "NL",
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     }
 ]}
