@@ -36,7 +36,8 @@
         "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
       },
-      "nat": "FR"
+      "nat": "FR",
+      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
     },
 
     {
@@ -72,7 +73,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
       },
-      "nat": "CH"
+      "nat": "CH",
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
     },
 
     {
@@ -108,7 +110,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
       },
-      "nat": "AU"
+      "nat": "AU",
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
     },
 
     {
@@ -144,7 +147,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
       },
-      "nat": "FI"
+      "nat": "FI",
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
     },
 
     {
@@ -180,7 +184,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
       },
-      "nat": "FR"
+      "nat": "FR",
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
     },
  
     {
@@ -216,7 +221,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
       },
-      "nat": "CA"
+      "nat": "CA",
+      "description": "Highly dependable and professional nanny with over 20 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
 
     {
@@ -252,7 +258,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
       },
-      "nat": "UA"
+      "nat": "UA",
+      "description": "Highly dependable and professional nanny with over 16 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
 
     {
@@ -278,8 +285,8 @@
         "age": 40
       },
       "registered": {
-        "date": "2008-07-29T09:32:33.728Z",
-        "age": 15
+        "date": "2014-07-29T09:32:33.728Z",
+        "age": 9
       },
       "phone": "935-700-775",
       "id": "53278760-Q",
@@ -288,7 +295,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
       },
-      "nat": "ES"
+      "nat": "ES",
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
     },
 
     {
@@ -310,8 +318,8 @@
       },
       "email": "rory.vanderhoff@example.com",
       "dob": {
-        "date": "1944-09-26T15:04:30.745Z",
-        "age": 79
+        "date": "1964-09-26T15:04:30.745Z",
+        "age": 59
       },
       "registered": {
         "date": "2003-11-09T14:22:26.340Z",
@@ -324,7 +332,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
       },
-      "nat": "NL"
+      "nat": "NL",
+      "description": "Highly dependable and professional nanny with over 19 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
 
     {
@@ -350,8 +359,8 @@
         "age": 55
       },
       "registered": {
-        "date": "2006-01-01T04:58:43.378Z",
-        "age": 17
+        "date": "2009-01-01T04:58:43.378Z",
+        "age": 14
       },
       "phone": "017684 87981",
       "id": "PK 82 05 67 M",
@@ -360,7 +369,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
       },
-      "nat": "GB"
+      "nat": "GB",
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
     },
 
     {
@@ -386,8 +396,8 @@
         "age": 41
       },
       "registered": {
-        "date": "2005-06-12T21:14:29.433Z",
-        "age": 18
+        "date": "2015-06-12T21:14:29.433Z",
+        "age": 8
       },
       "phone": "85289570",
       "id": "170582-8730",
@@ -396,7 +406,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
       },
-      "nat": "DK"
+      "nat": "DK",
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
     },
 
     {
@@ -422,8 +433,8 @@
         "age": 53
       },
       "registered": {
-        "date": "2010-04-19T04:45:09.276Z",
-        "age": 13
+        "date": "2014-04-19T04:45:09.276Z",
+        "age": 9
       },
       "phone": "013873 82147",
       "id": "SH 07 12 00 Q",
@@ -432,7 +443,8 @@
         "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
       },
-      "nat": "GB"
+      "nat": "GB",
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
     },
 
     {
@@ -454,8 +466,8 @@
       },
       "email": "laurin.boyer@example.com",
       "dob": {
-        "date": "1956-12-31T21:36:48.693Z",
-        "age": 66
+        "date": "1966-12-31T21:36:48.693Z",
+        "age": 56
       },
       "registered": {
         "date": "2011-10-24T22:07:32.772Z",
@@ -468,7 +480,8 @@
         "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
       },
-      "nat": "CH"
+      "nat": "CH",
+      "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
     },
   
     {
@@ -504,7 +517,8 @@
         "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
       },
-      "nat": "CH"
+      "nat": "CH", 
+      "description": "Highly dependable and professional nanny with over 17 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
 
     {
@@ -526,12 +540,12 @@
       },
       "email": "serkan.stellingwerf@example.com",
       "dob": {
-        "date": "1962-03-31T15:05:41.290Z",
-        "age": 61
+        "date": "1972-03-31T15:05:41.290Z",
+        "age": 51
       },
       "registered": {
-        "date": "2006-06-27T20:36:38.093Z",
-        "age": 17
+        "date": "2013-06-27T20:36:38.093Z",
+        "age": 10
       },
       "phone": "(097) 8529280",
       "id": "17111813",
@@ -540,6 +554,7 @@
         "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
       },
-      "nat": "NL"
+      "nat": "NL",
+      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
     }
 ]}
