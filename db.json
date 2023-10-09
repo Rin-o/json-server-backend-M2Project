@@ -3,7 +3,6 @@
     {
       "gender": "male",
       "name": {
-        "title": "Mr",
         "first": "Bastien",
         "last": "Faure"
       },
@@ -13,13 +12,9 @@
           "name": "Rue du 8 Mai 1945"
         },
         "city": "Leicester",
-        "state": "Corrèze",
-        "country": "France",
         "postcode": 58088
-      
       },
       "email": "bastien.faure@example.com",
-      
       "dob": {
         "date": "1966-06-08T18:15:46.487Z",
         "age": 23
@@ -30,21 +25,14 @@
       },
       "phone": "+44 49 062 28 04",
       "id": "1660542532833 15",
-      
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/89.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+        "large": "https://randomuser.me/api/portraits/men/89.jpg"
       },
-      "nat": "FR",
       "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
-
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Ms",
         "first": "Paula",
         "last": "Giraud"
       },
@@ -54,8 +42,6 @@
           "name": "Avenue Vauban"
         },
         "city": "Leicester",
-        "state": "Luzern",
-        "country": "Switzerland",
         "postcode": 5303
       },
       "email": "paula.giraud@example.com",
@@ -70,19 +56,13 @@
       "phone": "+44 79 328 05 96",
       "id": "756.8629.0955.70",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/63.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+        "large": "https://randomuser.me/api/portraits/women/63.jpg"
       },
-      "nat": "CH",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
-
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Ms",
         "first": "Jo",
         "last": "Howell"
       },
@@ -92,8 +72,6 @@
           "name": "Homestead Rd"
         },
         "city": "Leicester",
-        "state": "Western Australia",
-        "country": "Australia",
         "postcode": 8120
       },
       "email": "jo.howell@example.com",
@@ -108,19 +86,13 @@
       "phone": "03-8487-0334",
       "id": "863014870",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/49.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+        "large": "https://randomuser.me/api/portraits/women/49.jpg"
       },
-      "nat": "AU",
-
-      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Mrs",
         "first": "Elsa",
         "last": "Korpi"
       },
@@ -130,8 +102,6 @@
           "name": "Satakennankatu"
         },
         "city": "Leicester",
-        "state": "Kymenlaakso",
-        "country": "Finland",
         "postcode": 87122
       },
       "email": "elsa.korpi@example.com",
@@ -146,18 +116,13 @@
       "phone": "07-531-655",
       "id": "NaNNA396undefined",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/69.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+        "large": "https://randomuser.me/api/portraits/women/69.jpg"
       },
-      "nat": "FI",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Mrs",
         "first": "Amelia",
         "last": "Durand"
       },
@@ -167,8 +132,6 @@
           "name": "Rue de Gerland"
         },
         "city": "Leicester",
-        "state": "Tarn-et-Garonne",
-        "country": "France",
         "postcode": 15751
       },
       "email": "amelia.durand@example.com",
@@ -183,18 +146,13 @@
       "phone": "03-45-95-10-00",
       "id": "2630997191499 40",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/27.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+        "large": "https://randomuser.me/api/portraits/women/27.jpg"
       },
-      "nat": "FR",
-      "description": "Skilled, professional nanny with a flexible schedule and over 13 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
+      "description": "Skilled, professional nanny with a flexible schedule and over 13 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     },
- 
     {
       "gender": "female",
       "name": {
-        "title": "Mrs",
         "first": "Avery",
         "last": "Slawa"
       },
@@ -204,8 +162,6 @@
           "name": "Dalhousie Ave"
         },
         "city": "Leicester",
-        "state": "Prince Edward Island",
-        "country": "Canada",
         "postcode": "W4Z 0G3"
       },
       "email": "avery.slawa@example.com",
@@ -220,18 +176,13 @@
       "phone": "S94 L10-7507",
       "id": "800280430",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/4.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+        "large": "https://randomuser.me/api/portraits/women/4.jpg"
       },
-      "nat": "CA",
       "description": "Highly dependable and professional nanny with over 20 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Miss",
         "first": "Aelita",
         "last": "Gogol-Yanovskiy"
       },
@@ -241,8 +192,6 @@
           "name": "Ieniseyska"
         },
         "city": "Leicester",
-        "state": "Volinska",
-        "country": "Ukraine",
         "postcode": 77262
       },
       "email": "aelita.gogol-yanovskiy@example.com",
@@ -257,18 +206,13 @@
       "phone": "(067) W96-4151",
       "id": "800280431",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/15.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+        "large": "https://randomuser.me/api/portraits/women/15.jpg"
       },
-      "nat": "UA",
       "description": "Highly dependable and professional nanny with over 16 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Mrs",
         "first": "Mar",
         "last": "Iglesias"
       },
@@ -278,8 +222,6 @@
           "name": "Calle de Toledo"
         },
         "city": "Leicester",
-        "state": "Galicia",
-        "country": "Spain",
         "postcode": 70091
       },
       "email": "mar.iglesias@example.com",
@@ -294,18 +236,13 @@
       "phone": "935-700-775",
       "id": "53278760-Q",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/57.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+        "large": "https://randomuser.me/api/portraits/women/57.jpg"
       },
-      "nat": "ES",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Mrs",
         "first": "Rory",
         "last": "Van der Hoff"
       },
@@ -315,8 +252,6 @@
           "name": "Kruchterstraat"
         },
         "city": "Leicester",
-        "state": "Flevoland",
-        "country": "Netherlands",
         "postcode": "5100 HO"
       },
       "email": "rory.vanderhoff@example.com",
@@ -331,18 +266,13 @@
       "phone": "(036) 9041838",
       "id": "27100324",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/56.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+        "large": "https://randomuser.me/api/portraits/women/56.jpg"
       },
-      "nat": "NL",
       "description": "Highly dependable and professional nanny with over 19 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
-
-      {
+    {
       "gender": "female",
       "name": {
-        "title": "Miss",
         "first": "Rosalyn",
         "last": "Scott"
       },
@@ -352,8 +282,6 @@
           "name": "The Grove"
         },
         "city": "Leicester",
-        "state": "Nottinghamshire",
-        "country": "United Kingdom",
         "postcode": "YW6 9XH"
       },
       "email": "rosalyn.scott@example.com",
@@ -368,18 +296,13 @@
       "phone": "017684 87981",
       "id": "PK 82 05 67 M",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/5.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+        "large": "https://randomuser.me/api/portraits/women/5.jpg"
       },
-      "nat": "GB",
-      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
- },
-
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+    },
     {
       "gender": "female",
       "name": {
-        "title": "Ms",
         "first": "Laura",
         "last": "Mortensen"
       },
@@ -389,8 +312,6 @@
           "name": "Østre Alle"
         },
         "city": "Leicester",
-        "state": "Nordjylland",
-        "country": "Denmark",
         "postcode": 79607
       },
       "email": "laura.mortensen@example.com",
@@ -405,18 +326,13 @@
       "phone": "85289570",
       "id": "170582-8730",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/52.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+        "large": "https://randomuser.me/api/portraits/women/52.jpg"
       },
-      "nat": "DK",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
-
     {
       "gender": "female",
       "name": {
-        "title": "Mrs",
         "first": "Julie",
         "last": "Russell"
       },
@@ -426,8 +342,6 @@
           "name": "Fairview Road"
         },
         "city": "Leicester",
-        "state": "Gwynedd County",
-        "country": "United Kingdom",
         "postcode": "N89 7HB"
       },
       "email": "julie.russell@example.com",
@@ -442,18 +356,13 @@
       "phone": "013873 82147",
       "id": "SH 07 12 00 Q",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/50.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+        "large": "https://randomuser.me/api/portraits/women/50.jpg"
       },
-      "nat": "GB",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment." 
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
-
     {
       "gender": "male",
       "name": {
-        "title": "Monsieur",
         "first": "Laurin",
         "last": "Boyer"
       },
@@ -463,8 +372,6 @@
           "name": "Rue des Abbesses"
         },
         "city": "Leicester",
-        "state": "Nidwalden",
-        "country": "Switzerland",
         "postcode": 7558
       },
       "email": "laurin.boyer@example.com",
@@ -479,18 +386,13 @@
       "phone": "076 722 42 76",
       "id": "756.0981.5583.09",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/38.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+        "large": "https://randomuser.me/api/portraits/men/38.jpg"
       },
-      "nat": "CH",
-      "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
+      "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     },
-  
     {
       "gender": "male",
       "name": {
-        "title": "Monsieur",
         "first": "Steffen",
         "last": "Martin"
       },
@@ -500,8 +402,6 @@
           "name": "Rue Docteur-Bonhomme"
         },
         "city": "Leicester",
-        "state": "Glarus",
-        "country": "Switzerland",
         "postcode": 9082
       },
       "email": "steffen.martin@example.com",
@@ -516,18 +416,13 @@
       "phone": "077 226 76 45",
       "id": "756.2422.8595.43",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/67.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+        "large": "https://randomuser.me/api/portraits/men/67.jpg"
       },
-      "nat": "CH", 
       "description": "Highly dependable and professional nanny with over 17 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
-
     {
       "gender": "male",
       "name": {
-        "title": "Mr",
         "first": "Serkan",
         "last": "Stellingwerf"
       },
@@ -537,8 +432,6 @@
           "name": "Heemskerker Relweg"
         },
         "city": "Leicester",
-        "state": "Groningen",
-        "country": "Netherlands",
         "postcode": "5865 KV"
       },
       "email": "serkan.stellingwerf@example.com",
@@ -553,11 +446,64 @@
       "phone": "(097) 8529280",
       "id": "17111813",
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/77.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+        "large": "https://randomuser.me/api/portraits/men/77.jpg"
       },
-      "nat": "NL",
-      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid." 
+      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+    },
+    {
+      "firstName": "test",
+      "lastName": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "location": "",
+      "description": "",
+      "picture": "",
+      "id": "4b7928e0-1aac-46d1-b34c-2f5c96a51020"
+    },
+    {
+      "name": {
+        "first": "test",
+        "last": ""
+      },
+      "gender": "",
+      "email": "",
+      "password": "",
+      "location": {
+        "street": {
+          "name": "",
+          "number": ""
+        },
+        "city": "",
+        "postcode": ""
+      },
+      "description": "",
+      "picture": {
+        "large": ""
+      },
+      "id": "b01a2527-9a32-4367-b0b9-283e02b76050"
+    },
+    {
+      "name": {
+        "first": "test",
+        "last": "test"
+      },
+      "gender": "",
+      "email": "",
+      "password": "",
+      "location": {
+        "street": {
+          "name": "",
+          "number": ""
+        },
+        "city": "",
+        "postcode": ""
+      },
+      "description": "",
+      "picture": {
+        "large": "C:\\fakepath\\full-shot-teacher-helping-girl-learn.jpg"
+      },
+      "id": "95019b49-0845-4dd2-a127-877869fc6090"
     }
-]}
+  ]
+}
