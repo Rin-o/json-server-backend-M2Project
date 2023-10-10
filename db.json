@@ -13,30 +13,11 @@
         "postcode": 58088
       },
       "email": "bastien.faure@example.com",
-<<<<<<< HEAD
-      "dob": {
-        "date": "1966-06-08T18:15:46.487Z",
-        "age": 23
-      },
-      "registered": {
-        "date": "2013-06-30T08:02:47.308Z",
-        "age": 3
-      },
-      "phone": "+44 49 062 28 04",
-      "id": "1660542532833 15",
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/89.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
-      },
-      "nat": "FR",
-=======
       "age": 23,
       "experience": 3,
       "phone": "+44 49 062 28 04",
       "id": "1660542532833 15",
       "picture":"https://randomuser.me/api/portraits/men/89.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
     {
@@ -56,16 +37,7 @@
       "experience": 8,
       "phone": "+44 79 328 05 96",
       "id": "756.8629.0955.70",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/63.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
-      },
-      "nat": "CH",
-=======
       "picture": "https://randomuser.me/api/portraits/women/63.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
     {
@@ -85,16 +57,7 @@
       "experience": 12,
       "phone": "03-8487-0334",
       "id": "863014870",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/49.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
-      },
-      "nat": "AU",
-=======
       "picture": "https://randomuser.me/api/portraits/women/49.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     },
     {
@@ -114,16 +77,7 @@
       "experience": 7,
       "phone": "07-531-655",
       "id": "NaNNA396undefined",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/69.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
-      },
-      "nat": "FI",
-=======
       "picture": "https://randomuser.me/api/portraits/women/69.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
     {
@@ -143,21 +97,10 @@
       "experience": 13,
       "phone": "03-45-95-10-00",
       "id": "2630997191499 40",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/27.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
-      },
-      "nat": "FR",
-      "description": "Skilled, professional nanny with a flexible schedule and over 13 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
-    },
-=======
       "picture": "https://randomuser.me/api/portraits/women/27.jpg",
       "description": "Skilled, professional nanny with a flexible schedule and over 13 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     },
 
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
     {
       "gender": "female",
       "name": {
@@ -215,16 +158,7 @@
       "experience": 9,
       "phone": "935-700-775",
       "id": "53278760-Q",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/57.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
-      },
-      "nat": "ES",
-=======
       "picture": "https://randomuser.me/api/portraits/women/57.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
     {
@@ -247,10 +181,6 @@
       "picture": "https://randomuser.me/api/portraits/women/56.jpg",
       "description": "Highly dependable and professional nanny with over 19 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
     },
-<<<<<<< HEAD
-=======
-
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
     {
       "gender": "female",
       "name": {
@@ -268,16 +198,7 @@
       "experience": 14,
       "phone": "017684 87981",
       "id": "PK 82 05 67 M",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/5.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
-      },
-      "nat": "GB",
-=======
       "picture": "https://randomuser.me/api/portraits/women/5.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     },
     {
@@ -297,16 +218,7 @@
       "experienced": 8,
       "phone": "85289570",
       "id": "170582-8730",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/52.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
-      },
-      "nat": "DK",
-=======
       "picture": "https://randomuser.me/api/portraits/women/52.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
     {
@@ -326,16 +238,7 @@
       "experience": 9,
       "phone": "013873 82147",
       "id": "SH 07 12 00 Q",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/50.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
-      },
-      "nat": "GB",
-=======
       "picture": "https://randomuser.me/api/portraits/women/50.jpg",
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
       "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
     },
     {
@@ -355,54 +258,8 @@
       "experience": 11,
       "phone": "076 722 42 76",
       "id": "756.0981.5583.09",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/38.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
-      },
-      "nat": "CH",
-      "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
-    },
-    {
-      "gender": "male",
-      "name": {
-        "title": "Monsieur",
-        "first": "Steffen",
-        "last": "Martin"
-      },
-      "location": {
-        "street": {
-          "number": 9766,
-          "name": "Rue Docteur-Bonhomme"
-        },
-        "city": "Leicester",
-        "state": "Glarus",
-        "country": "Switzerland",
-        "postcode": 9082
-      },
-      "email": "steffen.martin@example.com",
-      "dob": {
-        "date": "1968-04-22T09:39:42.812Z",
-        "age": 55
-      },
-      "registered": {
-        "date": "2006-05-10T18:20:21.094Z",
-        "age": 17
-      },
-      "phone": "077 226 76 45",
-      "id": "756.2422.8595.43",
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/67.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
-      },
-      "nat": "CH",
-      "description": "Highly dependable and professional nanny with over 17 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
-=======
       "picture": "https://randomuser.me/api/portraits/men/38.jpg",
       "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
     },
     {
       "gender": "male",
@@ -440,185 +297,8 @@
       "experience": 10,
       "phone": "(097) 8529280",
       "id": "17111813",
-<<<<<<< HEAD
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/77.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
-      },
-      "nat": "NL",
-      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
-    },
-    {
-      "name": {
-        "first": "test",
-        "last": ""
-      },
-      "gender": "",
-      "email": "",
-      "password": "",
-      "location": {
-        "street": {
-          "name": "",
-          "number": ""
-        },
-        "city": "",
-        "postcode": ""
-      },
-      "description": "",
-      "picture": {
-        "large": ""
-      },
-      "id": "b35e2521-ae2f-4c53-a7d4-073eeab1622a"
-    },
-    {
-      "name": {
-        "first": "test",
-        "last": ""
-      },
-      "gender": "",
-      "dob": {
-        "age": ""
-      },
-      "email": "",
-      "phone": "",
-      "password": "",
-      "location": {
-        "street": {
-          "name": "",
-          "number": ""
-        },
-        "city": "",
-        "postcode": ""
-      },
-      "resgistered": {
-        "age": ""
-      },
-      "description": "",
-      "picture": {
-        "large": ""
-      },
-      "id": "196bedf8-8e32-4c9d-b137-15c657f87365"
-    },
-    {
-      "name": {
-        "first": "test 2",
-        "last": ""
-      },
-      "gender": "",
-      "dob": {
-        "age": ""
-      },
-      "email": "",
-      "phone": "",
-      "password": "",
-      "location": {
-        "street": {
-          "name": "",
-          "number": ""
-        },
-        "city": "",
-        "postcode": ""
-      },
-      "resgistered": {
-        "age": ""
-      },
-      "description": "",
-      "picture": {
-        "large": ""
-      },
-      "id": "46402061-f7b2-4cd4-8700-3fcc053d0d70"
-    },
-    {
-      "name": {
-        "first": "test 2",
-        "last": ""
-      },
-      "gender": "",
-      "dob": {
-        "age": ""
-      },
-      "email": "",
-      "phone": "",
-      "password": "",
-      "location": {
-        "street": {
-          "name": "",
-          "number": ""
-        },
-        "city": "",
-        "postcode": ""
-      },
-      "resgistered": {
-        "age": ""
-      },
-      "description": "",
-      "picture": {
-        "large": ""
-      },
-      "id": "91a2de52-96b5-4223-a6e2-427d53c09716"
-    },
-    {
-      "name": {
-        "first": "test 2",
-        "last": ""
-      },
-      "gender": "",
-      "dob": {
-        "age": ""
-      },
-      "email": "",
-      "phone": "",
-      "password": "",
-      "location": {
-        "street": {
-          "name": "",
-          "number": ""
-        },
-        "city": "",
-        "postcode": ""
-      },
-      "resgistered": {
-        "age": ""
-      },
-      "description": "",
-      "picture": {
-        "large": ""
-      },
-      "id": "5c650071-8561-4006-ae07-4f1662f6b3ae"
-    },
-    {
-      "name": {
-        "first": "test 2",
-        "last": ""
-      },
-      "gender": "",
-      "dob": {
-        "age": ""
-      },
-      "email": "",
-      "phone": "",
-      "password": "",
-      "location": {
-        "street": {
-          "name": "",
-          "number": ""
-        },
-        "city": "",
-        "postcode": ""
-      },
-      "resgistered": {
-        "age": ""
-      },
-      "description": "",
-      "picture": {
-        "large": ""
-      },
-      "id": "c64ed284-2307-4b4b-bd22-f4ca298f7caf"
-=======
       "picture": "https://randomuser.me/api/portraits/men/77.jpg",
       "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
->>>>>>> 50f2dffea1da33004f995ee26050da0871e3246b
     }
   ]
 }
