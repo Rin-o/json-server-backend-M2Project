@@ -300,5 +300,9 @@
       "picture": "https://randomuser.me/api/portraits/men/77.jpg",
       "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
     }
+  ],
+
+  "adminPassword":[
+    {"password": ""}
   ]
 }
