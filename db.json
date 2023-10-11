@@ -19,7 +19,16 @@
       "phone": "+44 49 062 28 04",
       "id": "1660542532833 15",
       "picture":"https://randomuser.me/api/portraits/men/89.jpg",
-      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
+      "description": "Experienced babysitter looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiosity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
+      "availability": [
+        {"day": "Monday", "morning": false, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": false, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -40,7 +49,16 @@
       "phone": "+44 79 328 05 96",
       "id": "756.8629.0955.70",
       "picture": "https://randomuser.me/api/portraits/women/63.jpg",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
+      "availability": [
+        {"day": "Monday", "morning": false, "afternoon": false},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -61,7 +79,16 @@
       "phone": "03-8487-0334",
       "id": "863014870",
       "picture": "https://randomuser.me/api/portraits/women/49.jpg",
-      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": false, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": false},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -82,7 +109,16 @@
       "phone": "07-531-655",
       "id": "NaNNA396undefined",
       "picture": "https://randomuser.me/api/portraits/women/69.jpg",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": false, "afternoon": false},
+        {"day": "Friday", "morning": false, "afternoon": false},
+        {"day": "Saturday", "morning": true, "afternoon": true},
+        {"day": "Sunday", "morning": true, "afternoon": true}
+      ]
     },
     {
       "gender": "female",
@@ -103,7 +139,16 @@
       "phone": "03-45-95-10-00",
       "id": "2630997191499 40",
       "picture": "https://randomuser.me/api/portraits/women/27.jpg",
-      "description": "Skilled, professional nanny with a flexible schedule and over 13 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+      "description": "Skilled, professional nanny with a flexible schedule and over 13 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid.",
+      "availability": [
+        {"day": "Monday", "morning": false, "afternoon": false},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": true, "afternoon": true},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
 
     {
@@ -125,7 +170,16 @@
       "phone": "S94 L10-7507",
       "id": "800280430",
       "picture": "https://randomuser.me/api/portraits/women/4.jpg",
-      "description": "Hey there, fellow parents and caregivers! Let me introduce myself—I'm your go-to nanny with a twist! With years of experience under my belt, I've tackled it all—newborns as fresh as 4 days old, adorable twin bundles of joy, and even the wonderful chaos of looking after multiple kiddos at once! But here's the fun part—I'm not your run-of-the-mill nanny. I'm the energetic, cooking extraordinaire, adventure-seeking nanny you've been dreaming of! I'm not just a nanny; I'm a gourmet chef in the making! Let's whip up healthy and delicious meals together in the kitchen. I'm all about staying active! Whether it's exploring the great outdoors or inventing new games right in our living room, I'm your partner in play. Reading, imagination, and creativity are my jam! Let's dive into captivating stories, spark young minds, and have a blast inventing our very own adventures. Oh, and did I mention my formal roles as an ethics teacher and computer whiz in primary schools? Yep, I bring that extra touch of education and tech-savviness to the mix. Most importantly, I'm caring, patient, and dedicated to nurturing your little ones. My goal is to not just look after them but to foster their independence and help them grow into incredible individuals. So, if you're on the hunt for a nanny who's a little bit adventurous, a little bit creative, and a whole lot of fun, look no further! Let's chat and see how I can be the perfect fit for your family. Drop me a message today, and let's embark on this exciting journey together!"
+      "description": "Hey there, fellow parents and caregivers! Let me introduce myself—I'm your go-to nanny with a twist! With years of experience under my belt, I've tackled it all—newborns as fresh as 4 days old, adorable twin bundles of joy, and even the wonderful chaos of looking after multiple kiddos at once! But here's the fun part—I'm not your run-of-the-mill nanny. I'm the energetic, cooking extraordinaire, adventure-seeking nanny you've been dreaming of! I'm not just a nanny; I'm a gourmet chef in the making! Let's whip up healthy and delicious meals together in the kitchen. I'm all about staying active! Whether it's exploring the great outdoors or inventing new games right in our living room, I'm your partner in play. Reading, imagination, and creativity are my jam! Let's dive into captivating stories, spark young minds, and have a blast inventing our very own adventures. Oh, and did I mention my formal roles as an ethics teacher and computer whiz in primary schools? Yep, I bring that extra touch of education and tech-savviness to the mix. Most importantly, I'm caring, patient, and dedicated to nurturing your little ones. My goal is to not just look after them but to foster their independence and help them grow into incredible individuals. So, if you're on the hunt for a nanny who's a little bit adventurous, a little bit creative, and a whole lot of fun, look no further! Let's chat and see how I can be the perfect fit for your family. Drop me a message today, and let's embark on this exciting journey together!",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": false},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": true, "afternoon": false},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -146,7 +200,16 @@
       "phone": "(067) W96-4151",
       "id": "800280431",
       "picture": "https://randomuser.me/api/portraits/women/15.jpg",
-      "description": "I am defering my uni course of economics and law to work full time in 2024. Im the oldest of 3, and the oldest of 20 cousins (all under 13) in my super loving and extremely social family. So looking after kids has always been a given rather than a choice... until now! Thankfully i find it so fulfilling. Nannying is my ideal job as entertaining and supervising kids is my normal! I have previous babysitting experience, sport coaching experience as well as extensive tutoring experience with primary and lower high school students. I'm super close with my brother and sister, and am really looking forward to becoming a helping hand for you guys and a loving addition to the family. Im extremely happy to do housework, run errands, cook etc and would be thrilled to help with homework, play games and do absolutely anything creative. I am a comfortable and responsible driver on my P1 license. I have previous references i can provide if its preferred. Look forward to hearing from you!"
+      "description": "I am defering my uni course of economics and law to work full time in 2024. Im the oldest of 3, and the oldest of 20 cousins (all under 13) in my super loving and extremely social family. So looking after kids has always been a given rather than a choice... until now! Thankfully i find it so fulfilling. Nannying is my ideal job as entertaining and supervising kids is my normal! I have previous babysitting experience, sport coaching experience as well as extensive tutoring experience with primary and lower high school students. I'm super close with my brother and sister, and am really looking forward to becoming a helping hand for you guys and a loving addition to the family. Im extremely happy to do housework, run errands, cook etc and would be thrilled to help with homework, play games and do absolutely anything creative. I am a comfortable and responsible driver on my P1 license. I have previous references i can provide if its preferred. Look forward to hearing from you!",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": false, "afternoon": false},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": true, "afternoon": true}
+      ]
     },
     {
       "gender": "female",
@@ -167,7 +230,16 @@
       "phone": "935-700-775",
       "id": "53278760-Q",
       "picture": "https://randomuser.me/api/portraits/women/57.jpg",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
+      "availability": [
+        {"day": "Monday", "morning": false, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": true, "afternoon": true},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -188,7 +260,16 @@
       "phone": "(036) 9041838",
       "id": "27100324",
       "picture": "https://randomuser.me/api/portraits/women/56.jpg",
-      "description": "Hi! I'm Marta, a 26-year-old Spanish nanny with a passion for childcare and a heart full of love for little ones. With years of experience and a genuine affinity for nurturing, I'm excited to bring warmth, creativity, and a sprinkle of Spanish culture to your family. Extensive Experience, I've cared for children of various ages, bringing joy and a sense of security into their lives. From imaginative play to educational games, I believe in making every moment a learning opportunity. Safety First: Certified in Working Witch Children Beyond childcare, I'm happy to lend a helping hand with light household tasks. Let's work together to create a nurturing environment for your family."
+      "description": "Hi! I'm Marta, a 26-year-old Spanish nanny with a passion for childcare and a heart full of love for little ones. With years of experience and a genuine affinity for nurturing, I'm excited to bring warmth, creativity, and a sprinkle of Spanish culture to your family. Extensive Experience, I've cared for children of various ages, bringing joy and a sense of security into their lives. From imaginative play to educational games, I believe in making every moment a learning opportunity. Safety First: Certified in Working Witch Children Beyond childcare, I'm happy to lend a helping hand with light household tasks. Let's work together to create a nurturing environment for your family.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": false, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": false},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": true, "afternoon": true}
+      ]
     },
     {
       "gender": "female",
@@ -209,7 +290,16 @@
       "phone": "017684 87981",
       "id": "PK 82 05 67 M",
       "picture": "https://randomuser.me/api/portraits/women/5.jpg",
-      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+      "description": "Skilled, professional nanny with a flexible schedule and over 12 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid.",
+      "availability": [
+        {"day": "Monday", "morning": false, "afternoon": true},
+        {"day": "Tuesday", "morning": false, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": false},
+        {"day": "Saturday", "morning": true, "afternoon": true},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -230,7 +320,16 @@
       "phone": "85289570",
       "id": "170582-8730",
       "picture": "https://randomuser.me/api/portraits/women/52.jpg",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": false, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": true, "afternoon": false},
+        {"day": "Sunday", "morning": true, "afternoon": false}
+      ]
     },
     {
       "gender": "female",
@@ -251,7 +350,16 @@
       "phone": "013873 82147",
       "id": "SH 07 12 00 Q",
       "picture": "https://randomuser.me/api/portraits/women/50.jpg",
-      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment."
+      "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "male",
@@ -272,7 +380,16 @@
       "phone": "076 722 42 76",
       "id": "756.0981.5583.09",
       "picture": "https://randomuser.me/api/portraits/men/38.jpg",
-      "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+      "description": "Skilled, professional nanny with a flexible schedule and over 11 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": true, "afternoon": true},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "male",
@@ -293,7 +410,16 @@
       "phone": "077 226 76 45",
       "id": "756.2422.8595.43",
       "picture": "https://randomuser.me/api/portraits/men/67.jpg",
-      "description": "Highly dependable and professional nanny with over 17 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care."
+      "description": "Highly dependable and professional nanny with over 17 years of experience caring for children, including those with special needs. Skilled in helping childen work toward developeent and educational goals while providing gentle, loving care.",
+      "availability": [
+        {"day": "Monday", "morning": true, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": false, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": true, "afternoon": true},
+        {"day": "Sunday", "morning": false, "afternoon": false}
+      ]
     },
     {
       "gender": "male",
@@ -314,11 +440,16 @@
       "phone": "(097) 8529280",
       "id": "17111813",
       "picture": "https://randomuser.me/api/portraits/men/77.jpg",
-      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid."
+      "description": "Skilled, professional nanny with a flexible schedule and over 10 years of experience providing exceptional, loving care to infants, toddlers, and children of all ages. Knowledgeable in child development stages, communication best practices and positive behavior reinforcement. Certified in CPR and first aid.",
+      "availability": [
+        {"day": "Monday", "morning": false, "afternoon": true},
+        {"day": "Tuesday", "morning": true, "afternoon": true},
+        {"day": "Wednesday", "morning": false, "afternoon": false},
+        {"day": "Thursday", "morning": true, "afternoon": true},
+        {"day": "Friday", "morning": true, "afternoon": true},
+        {"day": "Saturday", "morning": false, "afternoon": false},
+        {"day": "Sunday", "morning": true, "afternoon": true}
+      ]
     }
-  ],
-
-  "adminPassword":[
-    {"password": ""}
   ]
 }
