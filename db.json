@@ -79,7 +79,44 @@
       "cost": 30,
       "description": "Experienced nanny looking to serve families by responsibly caring for their children and encouraging fun and creative activities to aid in their children's growth. Focused on fostering curiousity and building skills while adhering to the parent's preferred routines. Brings a love of learning and while focusing on childhood development and maintaining an organized, clean and secure environment.",
       "picture": "https://randomuser.me/api/portraits/women/63.jpg",
-      "id": "756.8629.0955.70"
+      "id": "756.8629.0955.70",
+      "availability": [
+        {
+          "day": "Monday",
+          "morning": true,
+          "afternoon": true
+        },
+        {
+          "day": "Tuesday",
+          "morning": true,
+          "afternoon": true
+        },
+        {
+          "day": "Wednesday",
+          "morning": false,
+          "afternoon": false
+        },
+        {
+          "day": "Thursday",
+          "morning": true,
+          "afternoon": true
+        },
+        {
+          "day": "Friday",
+          "morning": true,
+          "afternoon": true
+        },
+        {
+          "day": "Saturday",
+          "morning": false,
+          "afternoon": false
+        },
+        {
+          "day": "Sunday",
+          "morning": false,
+          "afternoon": false
+        }
+      ]
     },
     {
       "gender": "female",
