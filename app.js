@@ -6,6 +6,12 @@ const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const PORT = process.env.PORT;
+const cors = require("cors");
+
+const FRONTEND_URL =
+  process.env.ORIGIN ||
+  "http://localhost:5173" ||
+  "https://ironnanny.netlify.app"
 
 server.use(middlewares);
 server.use(morgan("dev"));
@@ -15,6 +21,12 @@ server.use((req, res, next) => {
   next();
 });
 server.use(router);
+
+server.use(
+  cors({
+    origin: [FRONTEND_URL],
+  })
+)
 
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port ${PORT}`);
