@@ -10,8 +10,7 @@ const cors = require("cors");
 
 const FRONTEND_URL =
   process.env.ORIGIN ||
-  "http://localhost:5173" ||
-  "https://ironnanny.netlify.app"
+  "https://ironnanny.netlify.app";
 
 server.use(middlewares);
 server.use(morgan("dev"));
